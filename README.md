@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="./banner.png" alt="Banner Jonas Barros" width="100%" />
 
 <br><br>
 
